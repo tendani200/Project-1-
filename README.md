@@ -1,2 +1,2 @@
 # Project-1-
-This was a web-based platform for online doctor consolation
+This is a website for a doctor.It is an online consultation where by patients consult online. 
